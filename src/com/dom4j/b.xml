@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sync>
+	<hx>
+		<nlinkid>123456789#</nlinkid>
+		<channelId>1001</channelId>
+		<serviceid>100001</serviceid>
+		<ext>3_LM1234567</ext>
+	</hx>
+	<request>
+		<userId>userId</userId>
+		<contentId>contentId</contentId>
+		<consumeCode>consumeCode</consumeCode>
+		<cpId>cpId</cpId>
+		<hRet>0</hRet>
+		<status>0</status>
+		<versionId>2_0_0</versionId>
+		<cpparam>3_LM1234567</cpparam>
+		<packageID>packageID</packageID>
+	</request>
+
+</sync>

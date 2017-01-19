@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<callbackReq>
+	<orderid>XXX</orderid>
+	<ordertime>XXX</ordertime>
+	<cpid>XXX</cpid>
+	<appid>XXX</appid>
+	<fid>XXX</fid>
+	<consumeCode>XXX</consumeCode>
+	<payfee>XXX</payfee>
+	<payType>XXX</payType>
+	<hRet>XXX</hRet>
+	<status>XXX</status>
+	<signMsg>XXX</signMsg>
+</callbackReq>

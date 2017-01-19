@@ -1,0 +1,39 @@
+ <?xml version="1.0" encoding="utf-8" ?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Header>
+		<ns1:RequestSOAPHeader xmlns:ns1="http://www.huawei.com.cn/schema/common/v2_1">
+			<ns1:spRevpassword>82396B9DDDB806E8209DE9AA67D241AF</ns1:spRevpassword>
+			<ns1:spId>741550</ns1:spId>
+			<ns1:serviceId>802000193539</ns1:serviceId>
+			<ns1:timeStamp>20161229094914</ns1:timeStamp>
+			<ns1:traceUniqueID>000000403331612290946540009561</ns1:traceUniqueID>
+			<ns1:webID>1234588</ns1:webID>
+		</ns1:RequestSOAPHeader>
+	</soapenv:Header>
+	<soapenv:Body>
+		<ns2:syncOrderRelation xmlns:ns2="http://www.csapi.org/schema/parlayx/data/sync/v1_0/local">
+			<ns2:userID>
+				<ns3:ID xmlns:ns3="http://schema.ib.sdp.huawei.com">264834611</ns3:ID>
+				<ns4:type xmlns:ns4="http://schema.ib.sdp.huawei.com">1</ns4:type>
+			</ns2:userID>
+			<ns2:productID>802000193539</ns2:productID>
+			<ns2:serviceID>802000193539</ns2:serviceID>
+			<ns2:serviceList>000000055262</ns2:serviceList>
+			<ns2:updateType>2</ns2:updateType>
+			<ns2:updateTime>20161229094654</ns2:updateTime>
+			<ns2:updateDesc>Additi	on</ns2:updateDesc>
+			<ns2:effectiveTime>20161229094654</ns2:effectiveTime>
+			<ns2:expiryTime>20370101000000</ns2:expiryTime>
+			<ns2:extensionInfo>
+				<ns5:namedParameters xmlns:ns5="http://enduserservices.ib.sdp.huawei.com">
+					<ns6:key xmlns:ns6="http://schema.ib.sdp.huawei.com">productOrderKey</ns6:key>
+					<ns7:value xmlns:ns7="http://schema.ib.sdp.huawei.com">999000000716037763</ns7:value>
+				</ns5:namedParameters>
+				<ns8:namedParameters xmlns:ns8="http://enduserservices.ib.sdp.huawei.com">
+					<ns9:key xmlns:ns9="http://schema.ib.sdp.huawei.com">outterId</ns9:key>
+					<ns10:value xmlns:ns10="http://schema.ib.sdp.huawei.com">1234588</ns10:value>
+				</ns8:namedParameters>
+			</ns2:extensionInfo>
+		</ns2:syncOrderRelation>
+	</soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<callbackReq><orderid>160829154018000000000000000000000000</orderid><ordertime>20160829154023</ordertime><cpid>86001507</cpid><appid>90274429620151228183435466300</appid><fid>00030852</fid><consumeCode>160330522490</consumeCode><payfee>100</payfee><payType>2</payType><hRet>0</hRet><status>00000</status><signMsg>fd643c2fe0915703cdee0b090b58e328</signMsg></callbackReq>
