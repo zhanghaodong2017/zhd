@@ -4,4 +4,5 @@
  <!-- 用户服务 -->
  <service name="UserService " class="com.zuidaima.service.UserService" template="normal" />
  <service name="GnmkService" class="com.zuidaima.service.GnmkService" template= "normal" />
+ 
  </service-config>
